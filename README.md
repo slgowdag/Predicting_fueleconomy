@@ -1,7 +1,7 @@
 
 # Predicting Fuel Economy: A Regression-Based Analysis
 
- 🎯 Objective
+ 🎯 Objective 
 
 The goal of this project is to develop a regression model to predict the fuel efficiency (miles per gallon - MPG) of cars based on various automobile characteristics such as weight, horsepower, displacement, acceleration, and model year. By analyzing historical automotive data, we aim to identify the key factors influencing fuel economy and build a robust predictive model.
 
